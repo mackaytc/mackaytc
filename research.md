@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Working Papers
 
-[The Effect of Source of Income Policies on Recipients of Non-Voucher Categories of Protected Income](assets/pdfs/SOI_Policies_and_Non_HCV_Protected_Classes_of_Income.pdf)
+[The Effect of Source of Income Policies on Recipients of Non-Voucher Categories of Protected Income](/assets/pdfs/SOI_Policies_and_Non_HCV_Protected_Classes_of_Income.pdf)
 
 "Affordable Housing and Public Safety" with Matthew Ross and Aria Golestani
 
@@ -16,15 +16,15 @@ permalink: /research/
 
 ### Publications
 
-["Drinking Water Contamination and Home Prices: Evidence from California"](assets/pdfs/Water_Quality_and_Home_Prices.pdf) (2025) accepted for publication in *Applied Economics Letters*.
-- Online appendix [available here](assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
-- Click [here](nitrate-contamination) for a non-technical discussion of this paper
+["Drinking Water Contamination and Home Prices: Evidence from California"](/assets/pdfs/Water_Quality_and_Home_Prices.pdf) (2025) accepted for publication in *Applied Economics Letters*.
+- Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
+- Click [here](/nitrate-contamination/) for a non-technical discussion of this paper
 
 ["Measuring Take-up of the California EITC with State Administrative Data"](https://www.capolicylab.org/wp-content/uploads/2021/07/Measuring-Take-up-of-the-CalEITC-with-State-Administrative-Data.pdf) (2023) with John Iselin and Matthew Unrath in the *Journal of Public Economics* 227: 105002.
-- Click [here](assets/pdfs/CalEITC-Falls-Far-Short-of-Its-Full-Reach.pdf) for a policy brief on this paper from California Policy Lab
+- Click [here](/assets/pdfs/CalEITC-Falls-Far-Short-of-Its-Full-Reach.pdf) for a policy brief on this paper from California Policy Lab
 
 ["Driver's Licenses for Unauthorized Immigrants and Auto Insurance"](https://doi.org/10.1111/coep.12492) (2021) with Brandyn Churchill and Bing Yang Tan in *Contemporary Economic Policy* 39(1):107-125.
-- Click [here](drivers-licenses) for a non-technical discussion of this paper
+- Click [here](/drivers-licenses/) for a non-technical discussion of this paper
 
 ["The Effect of E-Verify Laws on Crime"](http://ftp.iza.org/dp12798.pdf) (2021) with Brandyn Churchill, Andrew Dickinson, and Joseph J. Sabia in *Industrial and Labor Relations Review* 75(5): 1294-1320.
 

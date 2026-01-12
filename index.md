@@ -1,17 +1,16 @@
 ---
-layout: home
-title: Home
+layout: default
 ---
 
-<div style="margin: -20px -20px 30px -20px; position: relative;">
-<img src="/assets/images/cropped-landscape-background.jpg" alt="Landscape" style="width: 100%; max-height: 280px; object-fit: cover; object-position: center;">
+<div style="margin: -30px -15px 40px -15px;">
+<img src="/assets/images/cropped-landscape-background.jpg" alt="Landscape" style="width: 100%; height: 350px; object-fit: cover; object-position: center 40%;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;" markdown="1">
 
 <div style="flex: 1; min-width: 300px;" markdown="1">
 
-I am an Assistant Professor of Economics at California State University, Fullerton. My research focuses broadly on poverty, immigration, and housing. You can learn more about work I've done [here](research) and download a copy of my CV [here](assets/pdfs/taylor-mackay-CV-september-2025.pdf).
+I am an Assistant Professor of Economics at California State University, Fullerton. My research focuses broadly on poverty, immigration, and housing. You can learn more about work I've done [here](research) and download a copy of my CV [here](/assets/pdfs/taylor-mackay-CV-september-2025.pdf).
 
 **Email:** [tmackay@fullerton.edu](mailto:tmackay@fullerton.edu)
 

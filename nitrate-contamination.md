@@ -9,11 +9,11 @@ permalink: /nitrate-contamination/
 While I was in graduate school, I had the opportunity to work on a project exploring how consumers reacted to news that their tap water was unsafe to drink. Using data from across the United States, [we found that bottled water sales increased](https://www.pnas.org/doi/10.1073/pnas.1905385116) in counties where local water systems issued public notifications about drinking water contamination.
 
 <figure style="text-align: center; margin: 30px 0;">
-<img src="assets/images/california-farmland.jpg" alt="California farmland" style="max-width: 100%; max-height: 400px;">
+<img src="/assets/images/california-farmland.jpg" alt="California farmland" style="max-width: 100%; max-height: 400px;">
 <figcaption style="font-style: italic; color: #666; margin-top: 10px;">Nitrate contamination is associated with agricultural activity and is especially prevalent in California's Central Valley. Photo available from <a href="https://commons.wikimedia.org/wiki/File:Fremont_Peak_(California)_viewed_from_CA_SR_1.jpg">Wikimedia</a>.</figcaption>
 </figure>
 
-Buying bottled water allows consumers to avoid drinking contaminated water and makes perfect sense as an immediate, short-term response to contamination. After finishing this project, however, I was interested in the longer-run impacts of water contamination. In a solo project that was recently accepted for publication ([available here](assets/pdfs/Water_Quality_and_Home_Prices.pdf) as a working paper), I explore what happens to home prices when California residents learn their drinking water contains unsafe levels of nitrates.
+Buying bottled water allows consumers to avoid drinking contaminated water and makes perfect sense as an immediate, short-term response to contamination. After finishing this project, however, I was interested in the longer-run impacts of water contamination. In a solo project that was recently accepted for publication ([available here](/assets/pdfs/Water_Quality_and_Home_Prices.pdf) as a working paper), I explore what happens to home prices when California residents learn their drinking water contains unsafe levels of nitrates.
 
 ---
 
@@ -32,7 +32,7 @@ The effects show up quickly after notification and persist for several years aft
 For an average-sized water system serving about 27,700 people, the total economic cost comes out to roughly $212.5 million. That's a substantial hit to community wealth.
 
 <figure style="text-align: center; margin: 30px 0;">
-<img src="assets/images/nitrate-event-study.png" alt="Event study graph showing home price declines after nitrate notification" style="max-width: 100%; max-height: 400px;">
+<img src="/assets/images/nitrate-event-study.png" alt="Event study graph showing home price declines after nitrate notification" style="max-width: 100%; max-height: 400px;">
 <figcaption style="font-style: italic; color: #666; margin-top: 10px;">The graph above shows how home prices declined in the years after a nitrate public notification (PN). We can read this as saying, "Home prices were around ~4% lower 2 years after a nitrate contamination notification, and ~5% lower 3 years after." The X-axis shows the year relative to the notification (i.e., -1 is the year before, 0 is the year of the notification, etc.) and the Y-axis shows changes in percentage terms. Graph is Figure 3 from the research paper linked above.</figcaption>
 </figure>
 

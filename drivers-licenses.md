@@ -9,14 +9,14 @@ permalink: /drivers-licenses/
 *Journal article written with Brandyn Churchill and Bing Yang Tan*
 
 <figure style="text-align: center; margin: 30px 0;">
-<img src="assets/images/ab60-scaled.jpg" alt="People celebrating the passage of AB60 in 2013" style="max-width: 100%; max-height: 400px;">
+<img src="/assets/images/ab60-scaled.jpg" alt="People celebrating the passage of AB60 in 2013" style="max-width: 100%; max-height: 400px;">
 <figcaption style="font-style: italic; color: #666; margin-top: 10px;">People celebrating the passage of AB60 in 2013, which gave undocumented immigrants in California the ability to get driver's licenses and legally drive. Kevork Djansezian (Getty Images).</figcaption>
 </figure>
 
 For the past several years, I've been interested in policies that allow undocumented immigrants to get driver's licenses. Working with Brandyn Churchill and Bing Yang Tan, we've put together a paper on this topic that was recently published as an article in an academic journal. If you'd like to see a copy of the paper, there's a version posted [here](https://www.thecgo.org/research/drivers-licenses-for-unauthorized-immigrants-and-auto-insurance/).
 
 <figure style="text-align: center; margin: 30px 0;">
-<img src="assets/images/01062015_DMV_Line-scaled.jpg" alt="DMV line in Santa Barbara" style="max-width: 100%; max-height: 350px;">
+<img src="/assets/images/01062015_DMV_Line-scaled.jpg" alt="DMV line in Santa Barbara" style="max-width: 100%; max-height: 350px;">
 <figcaption style="font-style: italic; color: #666; margin-top: 10px;">Applicants lined up outside a DMV office in Santa Barbara, CA after AB60 allowed undocumented immigrants in California to get driver's licenses. Photo by Paul Wellman.</figcaption>
 </figure>
 
