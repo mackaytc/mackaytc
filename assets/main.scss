@@ -1,0 +1,142 @@
+---
+---
+
+/* Solarized color palette */
+$solarized-base03:  #002b36;
+$solarized-base02:  #073642;
+$solarized-base01:  #586e75;
+$solarized-base00:  #657b83;
+$solarized-base0:   #839496;
+$solarized-base1:   #93a1a1;
+$solarized-base2:   #eee8d5;
+$solarized-base3:   #fdf6e3;
+$solarized-yellow:  #b58900;
+$solarized-orange:  #cb4b16;
+$solarized-red:     #dc322f;
+$solarized-magenta: #d33682;
+$solarized-violet:  #6c71c4;
+$solarized-blue:    #268bd2;
+$solarized-cyan:    #2aa198;
+$solarized-green:   #859900;
+
+/* Override minima variables with solarized */
+$brand-color:       $solarized-blue;
+$brand-color-light: lighten($solarized-blue, 20%);
+$brand-color-dark:  darken($solarized-blue, 15%);
+$text-color:        $solarized-base00;
+$background-color:  $solarized-base3;
+$link-base-color:   $solarized-blue;
+$link-visited-color: $solarized-violet;
+
+@import "minima";
+
+/* Solarized body and backgrounds */
+body {
+  background-color: $solarized-base3;
+  color: $solarized-base00;
+}
+
+/* Header styling */
+.site-header {
+  position: relative;
+  z-index: 1000;
+  background-color: $solarized-base2;
+  border-bottom: 1px solid $solarized-base1;
+}
+
+.site-title, .site-title:visited {
+  color: $solarized-base01 !important;
+}
+
+.site-nav {
+  z-index: 1001;
+  background-color: $solarized-base2;
+}
+
+.site-nav .page-link {
+  color: $solarized-base01;
+}
+
+.site-nav .page-link:hover {
+  color: $solarized-blue;
+}
+
+/* Links */
+a {
+  color: $solarized-blue;
+}
+
+a:visited {
+  color: $solarized-violet;
+}
+
+a:hover {
+  color: $solarized-cyan;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $solarized-base01;
+}
+
+/* Footer styling */
+.site-footer {
+  background-color: $solarized-base2;
+  border-top: 1px solid $solarized-base1;
+  padding: 20px 0;
+}
+
+/* Footer button styles - high specificity */
+.site-footer a.btn,
+a.btn {
+  display: inline-block !important;
+  padding: 10px 20px !important;
+  margin: 5px !important;
+  background-color: $solarized-blue !important;
+  color: $solarized-base3 !important;
+  text-decoration: none !important;
+  border-radius: 5px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  transition: background-color 0.2s ease, transform 0.1s ease !important;
+  border: none !important;
+}
+
+.site-footer a.btn:hover,
+a.btn:hover {
+  background-color: $solarized-cyan !important;
+  color: $solarized-base3 !important;
+  text-decoration: none !important;
+  transform: translateY(-1px);
+}
+
+.site-footer a.btn:visited,
+a.btn:visited {
+  color: $solarized-base3 !important;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: $solarized-base2;
+  border: 1px solid $solarized-base1;
+}
+
+/* Blockquotes */
+blockquote {
+  color: $solarized-base01;
+  border-left-color: $solarized-cyan;
+}
+
+/* Horizontal rules */
+hr {
+  border-color: $solarized-base1;
+}
+
+/* Tables */
+table {
+  border-color: $solarized-base1;
+}
+
+th {
+  background-color: $solarized-base2;
+}
