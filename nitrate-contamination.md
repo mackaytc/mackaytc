@@ -7,7 +7,7 @@ permalink: /nitrate-contamination/
 While I was in graduate school, I had the opportunity to work on a project exploring how consumers reacted to news that their tap water was unsafe to drink. Using data from across the United States, [we found that bottled water sales increased](https://www.pnas.org/doi/10.1073/pnas.1905385116) in counties where local water systems issued public notifications about drinking water contamination.
 
 <figure style="text-align: center; margin: 30px 0;">
-<img src="/assets/images/california-farmland.jpg" alt="California farmland" style="max-width: 100%; max-height: 400px;">
+<img src="/assets/images/california-farmland.jpg" alt="California farmland" style="max-width: 100%; max-height: 400px; display: block; margin: 0 auto;">
 <figcaption style="font-style: italic; color: #666; margin-top: 10px;">Nitrate contamination is associated with agricultural activity and is especially prevalent in California's Central Valley. Photo available from <a href="https://commons.wikimedia.org/wiki/File:Fremont_Peak_(California)_viewed_from_CA_SR_1.jpg">Wikimedia</a>.</figcaption>
 </figure>
 

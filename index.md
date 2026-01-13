@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 <div style="margin: -30px -15px 40px -15px;">

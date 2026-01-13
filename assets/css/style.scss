@@ -33,3 +33,21 @@
 .footer-text a {
   color: #2a7ae2;
 }
+
+/* Footer button styles */
+.btn {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 5px;
+  background-color: #2a7ae2;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #1756a9;
+  text-decoration: none;
+}
