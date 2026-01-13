@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+
+/* Fix mobile navigation appearing behind header image */
+.site-header {
+  position: relative;
+  z-index: 1000;
+}
+
+.site-nav {
+  z-index: 1001;
+}
+
+/* Clean footer styling */
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 20px 0;
+}
+
+.footer-text {
+  font-size: 14px;
+  color: #828282;
+  line-height: 1.6;
+}
+
+.footer-text strong {
+  color: #333;
+  font-size: 15px;
+}
+
+.footer-text a {
+  color: #2a7ae2;
+}
