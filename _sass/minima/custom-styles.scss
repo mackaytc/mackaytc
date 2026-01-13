@@ -1,0 +1,118 @@
+/* Solarized color palette */
+$sol-base03:  #002b36;
+$sol-base02:  #073642;
+$sol-base01:  #586e75;
+$sol-base00:  #657b83;
+$sol-base0:   #839496;
+$sol-base1:   #93a1a1;
+$sol-base2:   #eee8d5;
+$sol-base3:   #fdf6e3;
+$sol-blue:    #268bd2;
+$sol-cyan:    #2aa198;
+$sol-violet:  #6c71c4;
+
+/* Solarized body and backgrounds */
+body {
+  background-color: $sol-base3 !important;
+  color: $sol-base00 !important;
+}
+
+/* Header styling */
+.site-header {
+  position: relative;
+  z-index: 1000;
+  background-color: $sol-base2 !important;
+  border-bottom: 1px solid $sol-base1 !important;
+}
+
+.site-title, .site-title:visited {
+  color: $sol-base01 !important;
+}
+
+.site-nav {
+  z-index: 1001;
+  background-color: $sol-base2 !important;
+}
+
+.site-nav .page-link {
+  color: $sol-base01 !important;
+}
+
+.site-nav .page-link:hover {
+  color: $sol-blue !important;
+}
+
+/* Links */
+a {
+  color: $sol-blue !important;
+}
+
+a:visited {
+  color: $sol-violet !important;
+}
+
+a:hover {
+  color: $sol-cyan !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $sol-base01 !important;
+}
+
+/* Footer styling */
+.site-footer {
+  background-color: $sol-base2 !important;
+  border-top: 1px solid $sol-base1 !important;
+  padding: 20px 0;
+}
+
+/* Footer button styles */
+.site-footer a.btn,
+a.btn {
+  display: inline-block !important;
+  padding: 10px 20px !important;
+  margin: 5px !important;
+  background-color: $sol-blue !important;
+  color: $sol-base3 !important;
+  text-decoration: none !important;
+  border-radius: 5px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  transition: background-color 0.2s ease !important;
+  border: none !important;
+}
+
+.site-footer a.btn:hover,
+a.btn:hover {
+  background-color: $sol-cyan !important;
+  color: $sol-base3 !important;
+  text-decoration: none !important;
+}
+
+.site-footer a.btn:visited,
+a.btn:visited {
+  color: $sol-base3 !important;
+}
+
+/* Wrapper background */
+.wrapper {
+  background-color: transparent !important;
+}
+
+/* Post content */
+.post-content, .page-content {
+  background-color: transparent !important;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: $sol-base2 !important;
+  border: 1px solid $sol-base1 !important;
+}
+
+/* Blockquotes */
+blockquote {
+  color: $sol-base01 !important;
+  border-left-color: $sol-cyan !important;
+}
