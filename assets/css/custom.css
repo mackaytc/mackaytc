@@ -1,19 +1,31 @@
-/* Solarized Theme */
+/* Google Fonts - Libre Baskerville (matches old WordPress site) */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:wght@400;600;700&display=swap');
+
+/* Solarized Theme with Custom Typography */
 
 body {
   background-color: #fdf6e3 !important;
-  color: #657b83 !important;
+  color: #586e75 !important;
+  font-family: 'Libre Baskerville', Georgia, serif !important;
+  font-size: 17px !important;
+  line-height: 1.8 !important;
 }
 
+/* Header area - use sans-serif for navigation */
 .site-header {
   position: relative;
   z-index: 1000;
   background-color: #eee8d5 !important;
-  border-bottom: 1px solid #93a1a1 !important;
+  border-bottom: 2px solid #93a1a1 !important;
+  padding: 15px 0 !important;
 }
 
 .site-title, .site-title:visited {
-  color: #586e75 !important;
+  color: #073642 !important;
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 28px !important;
+  letter-spacing: -0.5px !important;
 }
 
 .site-nav {
@@ -23,48 +35,147 @@ body {
 
 .site-nav .page-link {
   color: #586e75 !important;
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  margin-left: 25px !important;
+  transition: color 0.2s ease !important;
 }
 
 .site-nav .page-link:hover {
   color: #268bd2 !important;
 }
 
+/* Main content wrapper */
+.wrapper {
+  max-width: 900px !important;
+}
+
+/* Headings - mix of serif and styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
+  color: #073642 !important;
+  font-weight: 700 !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.75em !important;
+}
+
+h1 {
+  font-size: 2.2em !important;
+  border-bottom: 2px solid #2aa198 !important;
+  padding-bottom: 10px !important;
+}
+
+h2 {
+  font-size: 1.8em !important;
+}
+
+h3 {
+  font-size: 1.4em !important;
+  color: #586e75 !important;
+}
+
+/* Page titles */
+.post-title, .page-heading {
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
+  color: #073642 !important;
+  font-size: 2.4em !important;
+  font-weight: 700 !important;
+  border-bottom: 3px solid #2aa198 !important;
+  padding-bottom: 15px !important;
+  margin-bottom: 30px !important;
+}
+
+/* Links */
 a {
   color: #268bd2 !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid transparent !important;
+  transition: border-color 0.2s ease !important;
+}
+
+a:hover {
+  color: #2aa198 !important;
+  border-bottom-color: #2aa198 !important;
 }
 
 a:visited {
   color: #6c71c4 !important;
 }
 
-a:hover {
-  color: #2aa198 !important;
+/* Paragraphs */
+p {
+  margin-bottom: 1.4em !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #586e75 !important;
+/* Lists - circle style like old site */
+ul {
+  list-style: circle !important;
+  list-style-position: outside !important;
+  margin-left: 25px !important;
+  margin-bottom: 1.5em !important;
 }
 
+li {
+  margin-bottom: 0.5em !important;
+  padding-left: 5px !important;
+}
+
+/* Blockquotes - styled with left border accent */
+blockquote {
+  font-style: italic !important;
+  color: #657b83 !important;
+  border-left: 4px solid #2aa198 !important;
+  padding: 15px 20px !important;
+  margin: 1.5em 0 !important;
+  background-color: #eee8d5 !important;
+}
+
+blockquote p {
+  margin-bottom: 0 !important;
+}
+
+/* Horizontal rules */
+hr {
+  border: none !important;
+  border-top: 1px solid #93a1a1 !important;
+  margin: 2.5em 0 !important;
+}
+
+/* Strong/bold text */
+strong, b {
+  color: #073642 !important;
+  font-weight: 700 !important;
+}
+
+/* Footer styling */
 .site-footer {
   background-color: #eee8d5 !important;
-  border-top: 1px solid #93a1a1 !important;
-  padding: 20px 0;
+  border-top: 2px solid #93a1a1 !important;
+  padding: 25px 0 !important;
+  margin-top: 50px !important;
 }
 
 /* Footer button styles */
 .site-footer a.btn,
 a.btn {
   display: inline-block !important;
-  padding: 10px 20px !important;
+  padding: 12px 24px !important;
   margin: 5px !important;
   background-color: #268bd2 !important;
   color: #fdf6e3 !important;
   text-decoration: none !important;
-  border-radius: 5px !important;
+  border-radius: 4px !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
   font-size: 14px !important;
-  font-weight: 500 !important;
-  transition: background-color 0.2s ease !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  transition: all 0.2s ease !important;
   border: none !important;
+  border-bottom: none !important;
 }
 
 .site-footer a.btn:hover,
@@ -72,6 +183,7 @@ a.btn:hover {
   background-color: #2aa198 !important;
   color: #fdf6e3 !important;
   text-decoration: none !important;
+  border-bottom: none !important;
 }
 
 .site-footer a.btn:visited,
@@ -79,16 +191,38 @@ a.btn:visited {
   color: #fdf6e3 !important;
 }
 
+/* Code blocks */
 pre, code {
+  font-family: 'Monaco', 'Consolas', monospace !important;
   background-color: #eee8d5 !important;
   border: 1px solid #93a1a1 !important;
+  border-radius: 3px !important;
 }
 
-blockquote {
-  color: #586e75 !important;
-  border-left-color: #2aa198 !important;
+code {
+  padding: 2px 6px !important;
+  font-size: 0.9em !important;
 }
 
-.post-title, .page-heading {
-  color: #586e75 !important;
+pre {
+  padding: 15px !important;
+  overflow-x: auto !important;
+}
+
+/* Images and figures */
+figure {
+  margin: 2em 0 !important;
+}
+
+figcaption {
+  font-size: 0.85em !important;
+  color: #93a1a1 !important;
+  font-style: italic !important;
+  margin-top: 10px !important;
+  text-align: center !important;
+}
+
+/* Content area breathing room */
+.post-content, .page-content {
+  padding-top: 20px !important;
 }
