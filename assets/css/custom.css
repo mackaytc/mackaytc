@@ -1,0 +1,94 @@
+/* Solarized Theme */
+
+body {
+  background-color: #fdf6e3 !important;
+  color: #657b83 !important;
+}
+
+.site-header {
+  position: relative;
+  z-index: 1000;
+  background-color: #eee8d5 !important;
+  border-bottom: 1px solid #93a1a1 !important;
+}
+
+.site-title, .site-title:visited {
+  color: #586e75 !important;
+}
+
+.site-nav {
+  z-index: 1001;
+  background-color: #eee8d5 !important;
+}
+
+.site-nav .page-link {
+  color: #586e75 !important;
+}
+
+.site-nav .page-link:hover {
+  color: #268bd2 !important;
+}
+
+a {
+  color: #268bd2 !important;
+}
+
+a:visited {
+  color: #6c71c4 !important;
+}
+
+a:hover {
+  color: #2aa198 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #586e75 !important;
+}
+
+.site-footer {
+  background-color: #eee8d5 !important;
+  border-top: 1px solid #93a1a1 !important;
+  padding: 20px 0;
+}
+
+/* Footer button styles */
+.site-footer a.btn,
+a.btn {
+  display: inline-block !important;
+  padding: 10px 20px !important;
+  margin: 5px !important;
+  background-color: #268bd2 !important;
+  color: #fdf6e3 !important;
+  text-decoration: none !important;
+  border-radius: 5px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  transition: background-color 0.2s ease !important;
+  border: none !important;
+}
+
+.site-footer a.btn:hover,
+a.btn:hover {
+  background-color: #2aa198 !important;
+  color: #fdf6e3 !important;
+  text-decoration: none !important;
+}
+
+.site-footer a.btn:visited,
+a.btn:visited {
+  color: #fdf6e3 !important;
+}
+
+pre, code {
+  background-color: #eee8d5 !important;
+  border: 1px solid #93a1a1 !important;
+}
+
+blockquote {
+  color: #586e75 !important;
+  border-left-color: #2aa198 !important;
+}
+
+.post-title, .page-heading {
+  color: #586e75 !important;
+}
