@@ -18,27 +18,24 @@ For the past several years, I've been interested in policies that allow undocume
 <figcaption style="font-style: italic; color: #666; margin-top: 10px;">Applicants lined up outside a DMV office in Santa Barbara, CA after AB60 allowed undocumented immigrants in California to get driver's licenses. Photo by Paul Wellman.</figcaption>
 </figure>
 
-<div class="two-col-section">
-<div class="two-col-title">What is this paper about?</div>
-<div class="two-col-content">
-We wanted to know what happens when states let unauthorized immigrants get driver's licenses and drive legally. Fourteen states as of 2020 made this possible using what are known as undocumented immigrant license policies (UILPs). California is one of these states. You can see folks celebrating the passage of that bill in the picture above.
-</div>
-</div>
+---
 
-<div class="two-col-section">
-<div class="two-col-title">What does this paper say?</div>
-<div class="two-col-content">
+**What is this paper about?**
+
+We wanted to know what happens when states let unauthorized immigrants get driver's licenses and drive legally. Fourteen states as of 2020 made this possible using what are known as undocumented immigrant license policies (UILPs). California is one of these states. You can see folks celebrating the passage of that bill in the picture above.
+
+---
+
+**What does this paper say?**
+
 We find that letting unauthorized immigrants get drivers' licenses leads to more people getting licenses and more people purchasing auto insurance. These are good things!
 
 We don't see a lot of changes in, say, total miles driven across states when they pass one of these policies. What does this mean? We think some unauthorized immigrants were already driving without licenses. Letting these folks get a license makes them more likely to get licensed and insured. But we don't see the changes that we'd expect if *new* drivers were hitting the road.
-</div>
-</div>
 
-<div class="two-col-section">
-<div class="two-col-title">What should I take away from this paper?</div>
-<div class="two-col-content">
-Undocumented immigrants face all sorts of challenges living in the US. For many of these folks, driving is a necessity to get to work, take kids to school and so on. But if you don't have a license, driving can be risky - this is especially true when getting pulled over can result in <a href="https://www.nytimes.com/2006/04/14/nyregion/path-to-deportation-can-start-with-a-traffic-stop.html">deportation</a>.
+---
+
+**What should I take away from this paper?**
+
+Undocumented immigrants face all sorts of challenges living in the US. For many of these folks, driving is a necessity to get to work, take kids to school and so on. But if you don't have a license, driving can be risky - this is especially true when getting pulled over can result in [deportation](https://www.nytimes.com/2006/04/14/nyregion/path-to-deportation-can-start-with-a-traffic-stop.html).
 
 Opponents of letting undocumented immigrants drive legally suggest that doing so might have negative consequences such as increasing the number of uninsured drivers. In this study, we find that there is little evidence for these concerns. Many undocumented immigrants are already driving without a license, and when they're given the ability to do so, many opt to get a license and purchase auto insurance.
-</div>
-</div>
